@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Landing page (using async)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseLopezGonzalez/async-landing.git"
+  },
+  "keywords": [
+    "js",
+    "async"
+  ],
+  "author": "José Antonio <tijito4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseLopezGonzalez/async-landing/issues"
+  },
+  "homepage": "https://github.com/JoseLopezGonzalez/async-landing#readme"
+}
